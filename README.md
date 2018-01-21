@@ -1,3 +1,10 @@
+# NEW
+
+Neue Version: 7.8.3, x86
+
+Jetzt in Deutsch
+
+
 # Boinc-Portable
 My version of Boinc Portable - a mix of german/english but running. Actual it's 7.3.66 without Virtual Box
 
